@@ -1,0 +1,77 @@
+# Django
+
+# Virtual env
+venv/
+env/
+ENV/
+.venv/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+db.sqlite3
+
+# Media & static generated
+/media/
+staticfiles/
+static/
+build/
+dist/
+src/backend/media/
+
+# Django migrations (opcional deixar fora, mas muitos preferem versionar)
+# Caso não queira versionar:
+# */migrations/*.py
+# !*/migrations/__init__.py
+
+# Environment variables
+.env
+*.env
+.env.*
+
+# React e Vite
+
+# Node modules
+node_modules/
+
+# Vite local cache
+.vite/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+*.local
+*.local.env
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+coverage/
+htmlcov/
+.pytest_cache/
