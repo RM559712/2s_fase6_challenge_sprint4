@@ -10,7 +10,7 @@
 
 ## 👨‍👩 Grupo
 
-Grupo de número <b><PENDENTE></b> formado pelos integrantes mencionados abaixo.
+Grupo de número <b>5</b> formado pelos integrantes mencionados abaixo.
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/cirohenrique/">Ciro Henrique</a> ( <i>RM559040</i> )
@@ -27,7 +27,7 @@ Grupo de número <b><PENDENTE></b> formado pelos integrantes mencionados abaixo.
 
 ## 📜 Descrição
 
-<b>Referência</b>: <PENDENTE>
+<b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=603422
 
 ### [...]
 
@@ -144,4 +144,4 @@ Para essa versão não são solicitados parâmetros para acesso como por exemplo
 
 ## 📋 Licença
 
-Desenvolvido pelo Grupo <PENDENTE> para o projeto da fase 6 (<i>Enterprise Challenge - Sprint 4 - YOUVISA</i>) da <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a>. Está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+Desenvolvido pelo Grupo 5 para o projeto da fase 6 (<i>Enterprise Challenge - Sprint 4 - YOUVISA</i>) da <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a>. Está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
